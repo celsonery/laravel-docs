@@ -25,7 +25,7 @@ export default hopeTheme({
 
   footer: "Laravel documentation",
 
-  // displayFooter: true,
+  displayFooter: true,
 
   // encrypt: {
   //   config: {

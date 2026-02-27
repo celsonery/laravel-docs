@@ -3,22 +3,22 @@ import { sidebar } from "vuepress-theme-hope";
 export default sidebar({
   "/": [
     {
-      text: "Backend",
+      text: "Backend - Laravel",
       icon: "book",
       prefix: "backend/",
       children: "structure",
     },
     {
-      text: "Frontend",
+      text: "Frontend - Vue.js",
       icon: "book",
       prefix: "frontend/",
       children: "structure",
     },
     {
-      text: "Teste",
-      icon: "computer",
+      text: "Mobile",
+      icon: "mobile-screen  ",
       prefix: "teste/",
-      children: ['teste']
+      children: "structure"
     }
   ],
 });
