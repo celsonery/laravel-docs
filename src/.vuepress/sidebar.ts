@@ -16,7 +16,7 @@ export default sidebar({
     },
     {
       text: "Mobile",
-      icon: "mobile-screen  ",
+      icon: "mobile-screen",
       prefix: "teste/",
       children: "structure"
     }
